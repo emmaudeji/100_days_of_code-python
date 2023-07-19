@@ -2,4 +2,4 @@
 
 100 python projects in 100 days
 
-Reference: Angela You 100 days of code on Udemy.
+Reference: Angela Yu 100 days of code on Udemy.
